@@ -1,0 +1,23 @@
+Simple Linear Regression Metrics:
+MAE: 1474748.13
+MSE: 3675286604768.19
+R²: 0.27
+
+Multiple Linear Regression Metrics:
+MAE: 979679.69
+MSE: 1771751116594.03
+R²: 0.65
+
+Multiple Linear Regression Coefficients:
+area: 235.85
+bedrooms: 78574.49
+bathrooms: 1097117.27
+stories: 406223.16
+mainroad: 366824.19
+guestroom: 233146.77
+basement: 393159.78
+hotwaterheating: 687881.31
+airconditioning: 785550.58
+parking: 225756.51
+prefarea: 629901.66
+furnishingstatus: -210397.12
